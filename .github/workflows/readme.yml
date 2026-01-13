@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - run: ./bin/generate.sh
+      - run: bash ./bin/generate.sh
 
       - name: Commit README
         run: |
