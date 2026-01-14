@@ -4,7 +4,11 @@ set -e
 OUT="README.md"
 ASSETS_DIR="assets"
 
-cat > "$OUT" <<'EOF'
+cat > "$OUT" <<'EOF' 
+<h3 align="center">
+  Aesthetic Wallpapers
+</h3>
+
 <div align="center">
 <table>
 <tbody>
