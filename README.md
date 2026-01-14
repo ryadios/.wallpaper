@@ -53,6 +53,7 @@ If you liked the repo, give a star ⭐
   <img src="assets/cantarella.jpg" width="300">
   <img src="assets/cartethyia.jpeg" width="300">
   <img src="assets/changli.png" width="300">
+  <img src="assets/chisa_ripple.jpg" width="300">
   <img src="assets/chisato.jpeg" width="300">
   <img src="assets/dusk.png" width="300">
   <img src="assets/eva_unit1.png" width="300">
