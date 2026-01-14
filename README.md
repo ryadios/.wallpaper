@@ -1,4 +1,22 @@
-# Wallpapers
+<div align="center">
+<table>
+<tbody>
+<td align="center">
+<img width="2000" height="0"><br>
+  
+A curated, version-controlled collection of high-quality wallpapers sourced from [Wallhaven](https://wallhaven.cc)<br>
+If you liked the repo, give a star ⭐
+
+![GitHub repo size](https://img.shields.io/github/repo-size/ryadios/.wallpaper)
+![GitHub Org's stars](https://img.shields.io/github/stars/ryadios/.wallpaper)
+![GitHub release](https://img.shields.io/github/v/release/ryadios/.wallpaper)
+![GitHub last commit](https://img.shields.io/github/last-commit/ryadios/.wallpaper)
+
+<img width="3000" height="0">
+</td>
+</tbody>
+</table>
+</div>
 
 ## Preview
 
