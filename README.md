@@ -3,12 +3,12 @@
 <tbody>
 <td align="center">
 <img width="2000" height="0"><br>
-  
+
 A curated, version-controlled collection of high-quality wallpapers sourced from [Wallhaven](https://wallhaven.cc)<br>
 If you liked the repo, give a star ⭐
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ryadios/.wallpaper)
-![GitHub Org's stars](https://img.shields.io/github/stars/ryadios/.wallpaper)
+![GitHub stars](https://img.shields.io/github/stars/ryadios/.wallpaper)
 ![GitHub release](https://img.shields.io/github/v/release/ryadios/.wallpaper)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ryadios/.wallpaper)
 
@@ -18,9 +18,9 @@ If you liked the repo, give a star ⭐
 </table>
 </div>
 
-> [!Important]
-> All these wallpapers come from different sources like Wallhaven, Reddit and Github.<br> 
-> If you are the creator of any image contact me and I will give you credit.
+> [!IMPORTANT]
+> All these wallpapers come from different sources like Wallhaven, Reddit and GitHub.  
+> If you are the creator of any image, contact me and I will give you credit.
 
 ## Preview
 
@@ -39,8 +39,8 @@ If you liked the repo, give a star ⭐
   <img src="assets/aesthetic_baloon.jpg" width="300">
   <img src="assets/aesthetic_sky.jpg" width="300">
   <img src="assets/akane_banner.jpg" width="300">
-  <img src="assets/asuka_clearsky.jpg" width="300">
   <img src="assets/asuka.jpg" width="300">
+  <img src="assets/asuka_clearsky.jpg" width="300">
   <img src="assets/atha_pixiv.jpg" width="300">
   <img src="assets/aurora.jpg" width="300">
   <img src="assets/blue_shadow.png" width="300">
@@ -51,14 +51,15 @@ If you liked the repo, give a star ⭐
   <img src="assets/changli.png" width="300">
   <img src="assets/chisato.jpeg" width="300">
   <img src="assets/dusk.png" width="300">
-  <img src="assets/evangelion.png" width="300">
   <img src="assets/eva_unit1.png" width="300">
+  <img src="assets/evangelion.png" width="300">
   <img src="assets/fenny_snowbreak.jpg" width="300">
   <img src="assets/forest.jpg" width="300">
   <img src="assets/frieren.jpg" width="300">
   <img src="assets/futuristic_city.jpg" width="300">
   <img src="assets/futuristic_landscape.png" width="300">
   <img src="assets/grim_castlevania.png" width="300">
+  <img src="assets/gundam_mech.jpg" width="300">
   <img src="assets/ios_red_black.jpg" width="300">
   <img src="assets/ios_red_orange.jpg" width="300">
   <img src="assets/jane_doe.jpg" width="300">
@@ -72,12 +73,12 @@ If you liked the repo, give a star ⭐
   <img src="assets/miku_space.jpg" width="300">
   <img src="assets/milize.png" width="300">
   <img src="assets/misuzu_kamio.jpg" width="300">
+  <img src="assets/mountain_1.jpg" width="300">
   <img src="assets/mountain_10.jpg" width="300">
   <img src="assets/mountain_11.jpg" width="300">
   <img src="assets/mountain_12.jpg" width="300">
   <img src="assets/mountain_13.jpg" width="300">
   <img src="assets/mountain_14.jpg" width="300">
-  <img src="assets/mountain_1.jpg" width="300">
   <img src="assets/mountain_2.jpg" width="300">
   <img src="assets/mountain_3.jpg" width="300">
   <img src="assets/mountain_4.jpg" width="300">
@@ -106,4 +107,8 @@ If you liked the repo, give a star ⭐
   <img src="assets/texas_arknights.jpg" width="300">
   <img src="assets/totoro.jpg" width="300">
   <img src="assets/train_wreck.jpg" width="300">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true">
 </p>
