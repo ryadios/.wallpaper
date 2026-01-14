@@ -37,12 +37,14 @@ jobs:
         with:
           files: "wallpapers-*.zip"
           body: |
-            Release Date: ${{ steps.stats.outputs.date }}
-            Wallpapers: ${{ steps.stats.outputs.count }}
-            Total Size: ${{ steps.stats.outputs.size_human }}
+            **Release Date:** 2026-01-14
+            **Wallpapers:** 82
+            **Total Size:** 362M
 
-            Contents:
+            **Contents:**
             - Full-resolution wallpapers
             - Organized under `assets/`
+            
+            > [!NOTE]
+            > *Generated automatically from the repository state at this tag.*
 
-            Generated automatically from the repository state at this tag.
