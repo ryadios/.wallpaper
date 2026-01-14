@@ -1,0 +1,48 @@
+name: Release wallpapers
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Collect wallpaper stats
+        id: stats
+        run: |
+          COUNT=$(find assets -type f | wc -l)
+          SIZE_BYTES=$(du -sb assets | cut -f1)
+          SIZE_HUMAN=$(du -sh assets | cut -f1)
+          DATE=$(date -u +"%Y-%m-%d")
+
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "size_human=$SIZE_HUMAN" >> "$GITHUB_OUTPUT"
+          echo "date=$DATE" >> "$GITHUB_OUTPUT"
+
+      - name: Create archive
+        run: |
+          TAG="${GITHUB_REF#refs/tags/}"
+          zip -r "wallpapers-$TAG.zip" assets
+
+      - name: Create GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: "wallpapers-*.zip"
+          body: |
+            Release Date: ${{ steps.stats.outputs.date }}
+            Wallpapers: ${{ steps.stats.outputs.count }}
+            Total Size: ${{ steps.stats.outputs.size_human }}
+
+            Contents:
+            - Full-resolution wallpapers
+            - Organized under `assets/`
+
+            Generated automatically from the repository state at this tag.
