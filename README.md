@@ -30,7 +30,7 @@ If you liked the repo, give a star ⭐
 
 <p align="center">
   <img src="assets/2b.jpg" width="300">
-  <img src="assets/86_ eighty_six.jpg" width="300">
+  <img src="assets/86.jpg" width="300">
   <img src="assets/86_lycoris.jpg" width="300">
   <img src="assets/abstract_chroma.jpg" width="300">
   <img src="assets/abstract_distort.png" width="300">
