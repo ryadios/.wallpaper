@@ -52,9 +52,11 @@ If you liked the repo, give a star ⭐
   <img src="assets/botan_hololive.jpg" width="300">
   <img src="assets/cantarella.jpg" width="300">
   <img src="assets/cartethyia.jpeg" width="300">
+  <img src="assets/chainsaw_man_spacesuit.jpg" width="300">
   <img src="assets/changli.png" width="300">
   <img src="assets/chisa_ripple.jpg" width="300">
   <img src="assets/chisato.jpeg" width="300">
+  <img src="assets/columbina.jpg" width="300">
   <img src="assets/dusk.png" width="300">
   <img src="assets/eva_unit1.png" width="300">
   <img src="assets/evangelion.png" width="300">
