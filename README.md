@@ -43,6 +43,7 @@ If you liked the repo, give a star ⭐
   <img src="assets/aesthetic_baloon.jpg" width="300">
   <img src="assets/aesthetic_sky.jpg" width="300">
   <img src="assets/akane_banner.jpg" width="300">
+  <img src="assets/angel_monotone.jpg" width="300">
   <img src="assets/asuka.jpg" width="300">
   <img src="assets/asuka_clearsky.jpg" width="300">
   <img src="assets/atha_pixiv.jpg" width="300">
@@ -59,6 +60,7 @@ If you liked the repo, give a star ⭐
   <img src="assets/columbina.jpg" width="300">
   <img src="assets/dusk.png" width="300">
   <img src="assets/eva_unit1.png" width="300">
+  <img src="assets/eva_unit1_black.png" width="300">
   <img src="assets/evangelion.png" width="300">
   <img src="assets/fenny_snowbreak.jpg" width="300">
   <img src="assets/forest.jpg" width="300">
@@ -77,6 +79,7 @@ If you liked the repo, give a star ⭐
   <img src="assets/mai_sakurajima.jpg" width="300">
   <img src="assets/mai_x_sakuta.jpg" width="300">
   <img src="assets/makima_horror.png" width="300">
+  <img src="assets/miku.png" width="300">
   <img src="assets/miku_space.jpg" width="300">
   <img src="assets/milize.png" width="300">
   <img src="assets/misuzu_kamio.jpg" width="300">
